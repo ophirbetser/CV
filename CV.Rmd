@@ -22,6 +22,7 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> ophir.betser@gmail.com
 - <i class="fa fa-github"></i> [github.com/ophirbetser](https://github.com/ophirbetser)
+- <i class="fa fa-address-card"></i> [ophirbetser.netlify.app](https://ophirbetser.netlify.app/)
 - <i class="fa fa-phone"></i> +972 053-420-9480
 - For more information, please contact me via email.
 
