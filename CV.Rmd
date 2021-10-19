@@ -28,9 +28,11 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, Visualization, and Econometrics.
+- Experienced in Statistical Analysis, Data Visualization, and Econometrics.
 
 - Highly skilled in R
+
+- Experienced in Python and Excel
 
 - High self-learning ability
 
@@ -70,36 +72,38 @@ Tel-Aviv, Israel
 Program with extended math studies
 
 
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
-
-### Graduate Research Assistant
-
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
 
-SupStat Inc.
+### Research Assistant
 
-Beijing, China
+Department of Economics
 
-2014
+Tel Aviv University, Israel
 
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
+2019 - 2020
+
+::: list
+- Economometric analysis of crime data across the United States.
+- Analysis of geographic data using Python
+:::
+
+
+### Research Assistant
+
+Israel Ministry of Finance
+
+Jerusalem, Israel
+
+2020
+
+::: list
+- student in the research team in the Wage and Labor Agreements Division.
+- In-depth data analysis of the salaries and attendance hours of hundreds of thousands of public sector workers in Israel.
+- Extensive experience programming in R.
+- Writing research reports and creating complex visualizations.
 :::
 
 
