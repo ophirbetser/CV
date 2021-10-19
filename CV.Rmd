@@ -34,7 +34,9 @@ Skills {#skills}
 
 - skilled in Python and Excel.
 
-- High self-learning ability.
+- High **self-learning** ability.
+
+- High Teaching, Writing and Presentation skills.
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -75,9 +77,9 @@ Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 
-### Research Assistant
+### Department of Economics
 
-Department of Economics
+Research Assistant
 
 Tel Aviv University, Israel
 
@@ -85,13 +87,13 @@ Tel Aviv University, Israel
 
 ::: list
 - Economometric research of crime data across the United States.
-- Analysis of geographic data using Python
+- Analysis of geographic data using Python.
 :::
 
 
-### Research Assistant
+### Israel Ministry of Finance
 
-Israel Ministry of Finance
+Research Assistant
 
 Jerusalem, Israel
 
@@ -123,7 +125,7 @@ Undergraduate Program.
 
 Teaching assistant
 
-IDC Reichman University, Israel
+Reichman University, Israel
 
 2021
 
