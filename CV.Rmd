@@ -24,18 +24,15 @@ Contact Info {#contact}
 - <i class="fa fa-github"></i> [github.com/ophirbetser](https://github.com/ophirbetser)
 - <i class="fa fa-address-card"></i> [ophirbetser.netlify.app](https://ophirbetser.netlify.app/)
 - <i class="fa fa-phone"></i> +972 053-420-9480
-- For more information, please contact me via email.
-
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
+- Experienced in statistical analysis, Visualization, and Econometrics.
 
-- Full experience with next generation sequencing data analysis.
+- Highly skilled in R
 
-- Highly skilled in R, Bash, Perl, Python, LaTeX
-
+- High self-learning ability
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -62,25 +59,15 @@ interested in my background and skills, please feel free to contact me.
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### Tel Aviv University 
 
-B.S. in Information and Computing Sciences
+B.A. in Economics
 
-Beijing, China
+Tel-Aviv, Israel
 
-2010
+2018
 
-Thesis: Dyadic wavelet and its application in edge detection
-
-### University of Chinese Academy of Sciences
-
-M.S. in Bioinformatics
-
-Beijing, China
-
-2014
-
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+Program with extended math studies
 
 
 Research Experience {data-icon=laptop}
@@ -97,28 +84,6 @@ Beijing, China
 - Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
 - Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
 
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -137,61 +102,31 @@ Beijing, China
 - Converted statistical tutorials from SPSS to R language.
 :::
 
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
 
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### Economics in the Big Data World
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+Teaching assistant
 
-Beijing, China
+Tel Aviv University, Israel
 
-2014
+2021
 
-### Computational Biology and Bioinformatics.
+### Data Analysis for Business Applications
 
-Teaching assistant of GBS CB2-201 courses at UAB
+Teaching assistant
 
-AL, USA
+IDC Reichman University, Israel
 
-2016 - 2017
+2021
 
+### Statistics & R programming
 
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
+Tutor
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+Israel
 
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+2020 - 2021
