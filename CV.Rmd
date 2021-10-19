@@ -32,7 +32,7 @@ Skills {#skills}
 
 - Highly skilled in R.
 
-- Experienced in Python and Excel.
+- skilled in Python and Excel.
 
 - High self-learning ability.
 
@@ -84,7 +84,7 @@ Tel Aviv University, Israel
 2019 - 2020
 
 ::: list
-- Economometric analysis of crime data across the United States.
+- Economometric research of crime data across the United States.
 - Analysis of geographic data using Python
 :::
 
@@ -98,7 +98,7 @@ Jerusalem, Israel
 2020
 
 ::: list
-- student in the research team in the Wage and Labor Agreements Division.
+- Student in the Research-Team in the Wage and Labor Agreements Division.
 - In-depth data analysis of the salaries and attendance hours of hundreds of thousands of public sector workers in Israel.
 - Extensive experience programming in R.
 - Writing research reports and creating complex visualizations.
@@ -117,7 +117,7 @@ Tel Aviv University, Israel
 
 2021
 
-blah blah blah
+Undergraduate Program.
 
 ### Data Analysis for Business Applications
 
@@ -127,7 +127,7 @@ IDC Reichman University, Israel
 
 2021
 
-blah blah blah
+MBA Program.
 
 ### Statistics & R programming
 
