@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Ophir Betser](https://ophirbetser.netlify.app/author/ophir-betser/avatar_huab6dd8054251f32bffd25aefb643f082_47962_270x270_fill_q75_lanczos_center.jpg){width=80%}
+![Ophir Betser](https://ophirbetser.netlify.app/author/ophir-betser/avatar_huab6dd8054251f32bffd25aefb643f082_47962_270x270_fill_q75_lanczos_center.jpg){width=70%}
 
 
 Contact Info {#contact}
