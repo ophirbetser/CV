@@ -106,7 +106,7 @@ Jerusalem, Israel
 - Writing research reports and creating complex visualizations.
 :::
 
-### Waze/Google
+### Google/Waze
 
 Data Scientist Product Analytics
 
