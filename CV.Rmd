@@ -97,7 +97,7 @@ Research Assistant
 
 Jerusalem, Israel
 
-2020
+2020 - 2021
 
 ::: list
 - Student in the Research-Team in the Wage and Labor Agreements Division.
@@ -106,7 +106,13 @@ Jerusalem, Israel
 - Writing research reports and creating complex visualizations.
 :::
 
+### Waze/Google
 
+Data Scientist Product Analytics
+
+Tel-Aviv, Israel
+
+2022 - today
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -117,7 +123,7 @@ Teaching assistant
 
 Tel Aviv University, Israel
 
-2021
+2021 - 2022
 
 Undergraduate Program.
 
@@ -129,7 +135,17 @@ Reichman University, Israel
 
 2021
 
-MBA Program.
+AMBA Program.
+
+### Data Science for Business
+
+Teaching assistant
+
+Reichman University, Israel
+
+2021
+
+Mannheim & Reichman Program.
 
 ### Statistics & R programming
 
