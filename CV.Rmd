@@ -76,20 +76,13 @@ Tel-Aviv, Israel
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+### Google/Waze
 
-### Department of Economics
+Product Analytics
 
-Research Assistant
+Tel-Aviv, Israel
 
-Tel Aviv University, Israel
-
-2019 - 2020
-
-::: list
-- Economometric research of crime data across the United States.
-- Analysis of geographic data using Python.
-:::
-
+2022 - today
 
 ### Israel Ministry of Finance
 
@@ -106,13 +99,19 @@ Jerusalem, Israel
 - Writing research reports and creating complex visualizations.
 :::
 
-### Google/Waze
+### Department of Economics
 
-Data Scientist Product Analytics
+Research Assistant
 
-Tel-Aviv, Israel
+Tel Aviv University, Israel
 
-2022 - today
+2019 - 2020
+
+::: list
+- Economometric research of crime data across the United States.
+- Analysis of geographic data using Python.
+:::
+
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -126,6 +125,16 @@ Tel Aviv University, Israel
 2021 - 2022
 
 Undergraduate Program.
+
+### Doing magic with Data
+
+Teaching assistant
+
+Tel Aviv University, Israel
+
+2022
+
+Kellogg-Recanati - International Executive
 
 ### Data Analysis for Business Applications
 
