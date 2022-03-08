@@ -23,7 +23,7 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> ophir.betser@gmail.com
 - <i class="fa fa-github"></i> [github.com/ophirbetser](https://github.com/ophirbetser)
 - <i class="fa fa-address-card"></i> [ophirbetser.netlify.app](https://ophirbetser.netlify.app/)
-- <i class="fa fa-phone"></i> +972 053-420-9480
+- <i class="fa fa-phone"></i> +972 53-420-9480
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -41,10 +41,7 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-
 Last updated on `r Sys.Date()`.
-
-
 
 Main
 ================================================================================
@@ -72,7 +69,6 @@ Tel-Aviv, Israel
 :::
 
 
-
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
@@ -97,6 +93,7 @@ Jerusalem, Israel
 - In-depth data analysis of the salaries and attendance hours of hundreds of thousands of public sector workers in Israel.
 - Extensive experience programming in R.
 - Writing research reports and creating complex visualizations.
+- An example of the work in which I led the data analysis and research: [Wage in the Israeli health system](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/salary-supervisor-report-health-system-2020/he/salary-supervisor-reports_salary-supervisor-report-health-system-2020-full-version.pdf)
 :::
 
 ### Department of Economics
@@ -118,17 +115,18 @@ Teaching Experience {data-icon=chalkboard-teacher}
 
 ### Economics in the Big Data World
 
-Teaching assistant
+Teaching Assistant
 
 Tel Aviv University, Israel
 
 2021 - 2022
 
 Undergraduate Program.
+All course videos are in [Youtube](https://www.youtube.com/playlist?list=PLxMMIQl_LBtiPH7t1wFQuv44L6EeJ_mA6)
 
 ### Doing magic with Data
 
-Teaching assistant
+Teaching Assistant
 
 Tel Aviv University, Israel
 
@@ -138,7 +136,7 @@ Kellogg-Recanati - International Executive
 
 ### Data Analysis for Business Applications
 
-Teaching assistant
+Teaching Assistant
 
 Reichman University, Israel
 
@@ -148,7 +146,7 @@ AMBA Program.
 
 ### Data Science for Business
 
-Teaching assistant
+Teaching Assistant
 
 Reichman University, Israel
 
