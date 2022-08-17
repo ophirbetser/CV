@@ -67,7 +67,7 @@ Reach Me At {#contact}
 - <i class="fa fa-github"></i> [github.com/ophirbetser](https://github.com/ophirbetser)
 - <i class="fa fa-linkedin"></i> [linkedin.com/ophirbetser](https://www.linkedin.com/in/ophirbetser/)
 
-<div class = 'skill-bar' style = "height:177px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+<div class = 'skill-bar' style = "height:157px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
 
 Technical Skills {#skills}
 --------------------------------------------------------------------------------
@@ -92,6 +92,11 @@ style = "height:16px;width:190px; background:linear-gradient(to right,#7198FF 10
 <div class = 'skill-bar' 
 style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 95%,#A9A9A9 70% 100%)">
 <h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Python</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px;width:190px; background:linear-gradient(to right,#7198FF 92%,#A9A9A9 70% 100%)"> 
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">git</h3></div>
 <div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
 
 <div class = 'skill-bar' 
@@ -178,7 +183,7 @@ Main
 Ophir Betser {#title}
 --------------------------------------------------------------------------------
 
-Highly motivated Product Analyst with a great passion for creating knowledge from data, in order to make the best decisions. 
+Highly motivated **Product Analyst** with a great passion for creating knowledge from data, in order to make the best decisions. 
 Experienced in Statistical Analysis and Econometrics.
 skilled in **SQL, Python, R, Excel**, Visualization tools, and have great **self-learning ability**.
 
