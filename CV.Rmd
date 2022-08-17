@@ -10,38 +10,167 @@ output:
 knit: pagedown::chrome_print
 ---
 
+```{css, echo=FALSE}
+#title h1 {
+  color: #7198FF;
+  font-weight: 500;
+}
+
+body{
+font-family: "Roboto", sans-serif;
+}
+
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+
+.pagedjs_page{
+  --sidebar-background-color: #E3E3E3;
+  --sidebar-width: 2.2in;
+  --main-width: 6.1in;
+  --pagedjs-margin-right: 0.01in;
+  --pagedjs-margin-left: 0.1in;
+  --pagedjs-margin-top: 0.55in;
+  --pagedjs-margin-bottom: 0.15in;
+  --aside-margin-left: 30.1in;
+  --decorator-border: 2.5px solid #7198FF; /* change color and thickness of timeline */
+}
+
+.aside{
+  --sidebar-horizontal-padding: 11px;
+  padding: 0.1in;
+}
+
+.aside .level2{
+  margin-top: 0.1in;
+}
+
+```
+
+
 Aside
 ================================================================================
 
+![Ophir Betser](https://ophirbetser.netlify.app/author/ophir-betser/avatar_huab6dd8054251f32bffd25aefb643f082_47962_270x270_fill_q75_lanczos_center.jpg){width=95%}
 
-![Ophir Betser](https://ophirbetser.netlify.app/author/ophir-betser/avatar_huab6dd8054251f32bffd25aefb643f082_47962_270x270_fill_q75_lanczos_center.jpg){width=70%}
+<div class = 'skill-bar' style = "height:5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
 
 
-Contact Info {#contact}
+Reach Me At {#contact}
 --------------------------------------------------------------------------------
 
+- <i class="fa fa-phone"></i> +972 53-420-9480
 - <i class="fa fa-envelope"></i> ophir.betser@gmail.com
 - <i class="fa fa-github"></i> [github.com/ophirbetser](https://github.com/ophirbetser)
-- <i class="fa fa-address-card"></i> [ophirbetser.netlify.app](https://ophirbetser.netlify.app/)
-- <i class="fa fa-phone"></i> +972 53-420-9480
+- <i class="fa fa-linkedin"></i> [linkedin.com/ophirbetser](https://www.linkedin.com/in/ophirbetser/)
 
-Skills {#skills}
+<div class = 'skill-bar' style = "height:177px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+Technical Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in Statistical Analysis, Data Visualization, and Econometrics.
+<div class = 'skill-bar' style = "height:px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
 
-- Highly skilled in R.
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%);">
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">SQL</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
 
-- skilled in Python and Excel.
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%)">  
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">R</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
 
-- High **self-learning** ability.
+<div class = 'skill-bar' 
+style = "height:16px;width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%)">  
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Data Visualization</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
 
-- High Teaching, Writing and Presentation skills.
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 95%,#A9A9A9 70% 100%)">
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Python</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
 
-Disclaimer {#disclaimer}
+<div class = 'skill-bar' 
+style = "height:16px;width:190px; background:linear-gradient(to right,#7198FF 92%,#A9A9A9 70% 100%)"> 
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Airflow</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px;width:190px; background:linear-gradient(to right,#7198FF 92%,#A9A9A9 70% 100%)"> 
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Excel</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style="height:16px;width:190px; background:linear-gradient(to right,#7198FF 92%,#A9A9A9 70% 100%)">
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Econometrics</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style="height:16px;width:190px; background:linear-gradient(to right,#7198FF 87%,#A9A9A9 70% 100%)">
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Machine Learning</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style="height:16px;width:190px; background:linear-gradient(to right,#7198FF 87%,#A9A9A9 70% 100%)">
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Web Scraping</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 80%,#A9A9A9 70% 100%)" >  
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">HTML</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 80%,#A9A9A9 70% 100%)" >  
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">CSS</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+Soft Skills {#skills}
 --------------------------------------------------------------------------------
 
-Last updated on `r Sys.Date()`.
+<div class = 'skill-bar' style = "height:5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%)">  
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Research</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%)">  
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Teamwork</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%);">
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Problem-solving</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%);">
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Teaching</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%)">  
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Presentation</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%)">  
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Self-Learning Ability</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' 
+style = "height:16px; width:190px; background:linear-gradient(to right,#7198FF 100%,#A9A9A9 70% 100%)">  
+<h3 style = "font-size: 12px; text-vertical-align: center; color: #404040; padding-left:4px;">Attention to details</h3></div>
+<div class = 'skill-bar' style = "height:3.5px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
+<div class = 'skill-bar' style = "height:60px; background:linear-gradient(to right,#E3E3E3 100%,#E3E3E3 100% 100%);"></div>
+
 
 Main
 ================================================================================
@@ -49,14 +178,68 @@ Main
 Ophir Betser {#title}
 --------------------------------------------------------------------------------
 
+Highly motivated Product Analyst with a great passion for creating knowledge from data, in order to make the best decisions. 
+Experienced in Statistical Analysis and Econometrics.
+skilled in **SQL, Python, R, Excel**, Visualization tools, and have great **self-learning ability**.
 
-
-Education {data-icon=graduation-cap data-concise=true}
+Professional History {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Tel Aviv University 
+### Google, Waze
 
-B.A. in Economics
+Product Analytics
+
+Tel-Aviv, Israel
+
+2022 - today
+
+::: list
+- Team-member of the Trips-DS team in Waze-Data-Guild and in Waze-Carpool-Squad
+- Big-Data research and analysis on top of Google Cloud Platform (GCP).
+- Working closely with product managers and developers on feature development, Experiments, user classification and monitoring key metrics.
+- Productization tables for the data warehouse.
+- Building dashboards and conducting in-depth research.
+- A/B testing of new feathers.
+:::
+
+
+### Ministry of Finance
+
+Research Assistant
+
+Jerusalem, Israel
+
+2020 - 2021
+
+::: list
+- Student in the Research-Team of 'Wage and Labor Agreements' Division.
+- End-to-end analysis of the salaries and working conditions for +700K of  
+Israel public sector workers.
+- Extensive experience in R programming. Building automated analyses.
+- Writing research reports and creating complex visualizations.
+- Publication of reports that have received public interest. [(example)](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/salary-supervisor-report-health-system-2020/he/salary-supervisor-reports_salary-supervisor-report-health-system-2020-full-version.pdf).
+::: 
+
+### Department of Economics
+
+Research Assistant
+
+Tel-Aviv, Israel
+
+2019 - 2020
+
+::: list
+- Economometric research of crime data across the United States.
+- Analysis of geographic data using Python.
+:::
+
+
+Academic Background {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### B.A. in Economics
+
+Tel Aviv University
 
 Tel-Aviv, Israel
 
@@ -69,95 +252,38 @@ Tel-Aviv, Israel
 :::
 
 
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Google/Waze
-
-Product Analytics
-
-Tel-Aviv, Israel
-
-2022 - today
-
-### Israel Ministry of Finance
-
-Research Assistant
-
-Jerusalem, Israel
-
-2020 - 2021
-
-::: list
-- Student in the Research-Team in the Wage and Labor Agreements Division.
-- In-depth data analysis of the salaries and attendance hours of hundreds of thousands of public sector workers in Israel.
-- Extensive experience programming in R.
-- Writing research reports and creating complex visualizations.
-- An example of the work in which I led the data analysis and research: [Wage in the Israeli health system](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/salary-supervisor-report-health-system-2020/he/salary-supervisor-reports_salary-supervisor-report-health-system-2020-full-version.pdf)
-:::
-
-### Department of Economics
-
-Research Assistant
-
-Tel Aviv University, Israel
-
-2019 - 2020
-
-::: list
-- Economometric research of crime data across the United States.
-- Analysis of geographic data using Python.
-:::
-
-
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Economics in the Big Data World
+
+### Tel Aviv University
 
 Teaching Assistant
 
-Tel Aviv University, Israel
+Tel-Aviv, Israel
 
-2021 - 2022
+2021 - today
 
-Undergraduate Program.
-All course videos are in [Youtube](https://www.youtube.com/playlist?list=PLxMMIQl_LBtiPH7t1wFQuv44L6EeJ_mA6)
+::: list
+- 2021: Economics in the Big Data World, Undergraduate Program.  
+- 2022: Economics in the Big Data World, Undergraduate Program.  
+All course videos are in [Youtube](https://www.youtube.com/playlist?list=PLxMMIQl_LBtiPH7t1wFQuv44L6EeJ_mA6).
+- 2022: Doing magic with Data, Kellogg-Recanati MBA Program.
 
-### Doing magic with Data
+:::
 
-Teaching Assistant
-
-Tel Aviv University, Israel
-
-2022
-
-Kellogg-Recanati - International Executive
-
-### Data Analysis for Business Applications
+### Reichman University
 
 Teaching Assistant
 
-Reichman University, Israel
+Herzliah, Israel
 
-2021
+2021 - today
 
-AMBA Program.
+::: list
+- 2022: Data Science for Business, Mannheim & Reichman MBA Program.
+- 2022: Data Analysis for Business Applications, AMBA Program.
+- 2022: Exploratory Data Analysis, GMBA Program.  
+All course videos are in [Youtube](https://www.youtube.com/playlist?list=PLxMMIQl_LBti_FyE1ULmgA71NYIscp4H_).
+:::
 
-### Data Science for Business
-
-Teaching Assistant
-
-Reichman University, Israel
-
-2021
-
-Mannheim & Reichman Program.
-
-### Statistics & R programming
-
-Tutor
-
-Israel
-
-2020 - 2021
