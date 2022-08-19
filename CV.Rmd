@@ -196,7 +196,7 @@ Product Analytics
 
 Tel-Aviv, Israel
 
-2022 - today
+2022-01 - today
 
 ::: list
 - Team-member of the Trips-DS team in Waze-Data-Guild and in Waze-Carpool-Squad
@@ -204,17 +204,17 @@ Tel-Aviv, Israel
 - Working closely with product managers and developers on feature development, Experiments, user classification and monitoring key metrics.
 - Productization tables for the data warehouse.
 - Building dashboards and conducting in-depth research.
-- A/B testing of new feathers.
+- A/B testing of new features
 :::
 
 
 ### Ministry of Finance
 
-Research Assistant
+Research Analyst
 
 Jerusalem, Israel
 
-2020 - 2021
+2021-01 - 2021-12
 
 ::: list
 - Student in the Research-Team of 'Wage and Labor Agreements' Division.
@@ -231,7 +231,7 @@ Research Assistant
 
 Tel-Aviv, Israel
 
-2019 - 2020
+2020-01 - 2020-12
 
 ::: list
 - Economometric research of crime data across the United States.
