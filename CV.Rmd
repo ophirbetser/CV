@@ -33,8 +33,8 @@ font-family: "Roboto", sans-serif;
   --main-width: 6.1in;
   --pagedjs-margin-right: 0.01in;
   --pagedjs-margin-left: 0.1in;
-  --pagedjs-margin-top: 0.55in;
-  --pagedjs-margin-bottom: 0.15in;
+  --pagedjs-margin-top: 0.2in;
+  --pagedjs-margin-bottom: 0.1in;
   --aside-margin-left: 30.1in;
   --decorator-border: 2.5px solid #7198FF; /* change color and thickness of timeline */
 }
@@ -196,7 +196,7 @@ Product Analytics
 
 Tel-Aviv, Israel
 
-2022-01 - today
+2022-01 - 2023-01
 
 ::: list
 - Team-member of the Trips-DS team in Waze-Data-Guild and in Waze-Carpool-Squad
@@ -256,6 +256,13 @@ Tel-Aviv, Israel
 - Excellence in Microeconomics and Econometrics studies.
 :::
 
+### B.S. in Computer Science
+
+The Open University
+
+Tel-Aviv, Israel
+
+2018 - 2021
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
